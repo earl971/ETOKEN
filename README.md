@@ -1,0 +1,2 @@
+# ETOKEN
+ETOKEN symbol EEE
